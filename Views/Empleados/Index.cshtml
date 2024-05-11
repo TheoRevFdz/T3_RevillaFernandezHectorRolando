@@ -1,0 +1,92 @@
+﻿@using T3_RevillaFernandezHectorRolando.Util
+@model PaginatedListUtil<T3_RevillaFernandezHectorRolando.Models.Empleado>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Empleados</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-controller="Empleados" asp-action="Index" class="row g-4">
+    <div class="input-group">
+        <div class="form-floating col-auto">
+            <input type="text" name="searchNombre" value="@ViewData["CurrentFilterNombreEmp"]" class="form-control" />
+            <label>Nombre Completo</label>
+        </div>
+        <div class="form-floating col-auto" style="margin-left:15px;margin-right:15px">
+            <input type="text" name="email" value="@ViewData["CurrentFilterEmail"]" class="form-control" />
+            <label>Email</label>
+        </div>
+
+        <div class="col-auto" style="margin-left:15px"> <input class="btn btn-success" type="submit" value="Filtrar" /></div>
+    </div>
+</form>
+
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder=@ViewData["NombreEmpSort"]>
+                    NOMBRE DEL EMPLEADO
+                </a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder=@ViewData["EmailSort"]>
+                    CORREO ELECTRÓNICO
+                </a>
+            </th>
+            <th>
+                CONTRASEÑA
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombreCompleto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.password)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   asp-route-currentFilterName="@ViewData["CurrentFilterName"]"
+   asp-route-currentFilterYear="@ViewData["CurrentFilterYear"]"
+   asp-route-currentFilterRating="@ViewData["CurrentFilterRating"]"
+   class="btn btn-outline-dark @prevDisabled">
+    Anterior
+</a>
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   asp-route-currentFilterName="@ViewData["CurrentFilterName"]"
+   asp-route-currentFilterYear="@ViewData["CurrentFilterYear"]"
+   asp-route-currentFilterRating="@ViewData["CurrentFilterRating"]"
+   class="btn btn-outline-dark @nextDisabled">
+    Siguiente
+</a>
