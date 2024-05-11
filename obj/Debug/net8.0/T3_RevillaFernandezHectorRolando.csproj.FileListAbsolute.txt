@@ -250,3 +250,4 @@ D:\Docs\WS_Docs\WS_Net\T3_RevillaFernandezHectorRolando\obj\Debug\net8.0\refint\
 D:\Docs\WS_Docs\WS_Net\T3_RevillaFernandezHectorRolando\obj\Debug\net8.0\T3_RevillaFernandezHectorRolando.pdb
 D:\Docs\WS_Docs\WS_Net\T3_RevillaFernandezHectorRolando\obj\Debug\net8.0\T3_RevillaFernandezHectorRolando.genruntimeconfig.cache
 D:\Docs\WS_Docs\WS_Net\T3_RevillaFernandezHectorRolando\obj\Debug\net8.0\ref\T3_RevillaFernandezHectorRolando.dll
+D:\Docs\WS_Docs\WS_Net\T3_RevillaFernandezHectorRolando\obj\Debug\net8.0\T3_RevillaFernandezHectorRolando.sourcelink.json

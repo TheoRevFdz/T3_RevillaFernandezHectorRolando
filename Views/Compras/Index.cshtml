@@ -57,6 +57,9 @@
     <thead>
         <tr>
             <th>
+                ID
+            </th>
+            <th>
                 <a asp-action="Index" asp-route-sortOrder=@ViewData["NombreProductoSort"]>
                     NOMBRE PRODUCTO
                 </a>
@@ -83,6 +86,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr class="@fillColorFromSubtotal(item)">
+            <td>
+                    @Html.DisplayFor(modelItem => item.id)
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.nombreProducto)
             </td>
@@ -111,7 +117,10 @@
         <td></td>
         <td></td>
         <td></td>
-    <td><span style="font-weight:bold">Total:</span> @calcularTotal()</td>
+        <td></td>
+        <td>
+            <span style="font-weight:bold">Total:</span> @calcularTotal()
+        </td>
     </tfoot>
 </table>
 

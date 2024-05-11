@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("T3_RevillaFernandezHectorRolando")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5305f261b5c561ebc684147610e73fcfa1b88657")]
 [assembly: System.Reflection.AssemblyProductAttribute("T3_RevillaFernandezHectorRolando")]
 [assembly: System.Reflection.AssemblyTitleAttribute("T3_RevillaFernandezHectorRolando")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
