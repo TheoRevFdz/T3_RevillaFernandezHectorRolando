@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Data.SqlClient;
@@ -12,7 +13,8 @@ using T3_RevillaFernandezHectorRolando.Util;
 
 namespace T3_RevillaFernandezHectorRolando.Controllers
 {
-    public class EmpleadosController : Controller
+	[Authorize]
+	public class EmpleadosController : Controller
     {
         private readonly T3_RevillaFernandezHectorRolandoContext _context;
 

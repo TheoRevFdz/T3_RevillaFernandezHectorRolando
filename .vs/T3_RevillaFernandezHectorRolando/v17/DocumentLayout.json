@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\views\\compras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:views\\compras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\services\\empleadoserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\services\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:services\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|d:\\docs\\ws_docs\\ws_net\\t3_revillafernandezhectorrolando\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F51DE8D8-D5E7-4CF4-A995-15042F03965F}|T3_RevillaFernandezHectorRolando.csproj|solutionrelative:controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:08:49.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeToolTip": "Views\\Inicio\\IniciarSesion.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T16:02:22.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA6AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T08:26:35.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EmpleadoServiceImpl.cs",
               "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Services\\EmpleadoServiceImpl.cs",
               "RelativeDocumentMoniker": "Services\\EmpleadoServiceImpl.cs",
@@ -67,12 +101,11 @@
               "RelativeToolTip": "Services\\EmpleadoServiceImpl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T08:09:19.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T08:09:19.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IEmpleadoService.cs",
               "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Services\\IEmpleadoService.cs",
               "RelativeDocumentMoniker": "Services\\IEmpleadoService.cs",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "Services\\IEmpleadoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T08:07:00.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T08:07:00.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "InicioController.cs",
               "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Controllers\\InicioController.cs",
               "RelativeDocumentMoniker": "Controllers\\InicioController.cs",
@@ -98,20 +130,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EmpleadosController.cs",
               "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Controllers\\EmpleadosController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmpleadosController.cs",
               "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Controllers\\EmpleadosController.cs",
               "RelativeToolTip": "Controllers\\EmpleadosController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAArwFAAAAAvAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T05:22:32.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Views\\Empleados\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Empleados\\Index.cshtml",
@@ -119,31 +151,30 @@
               "RelativeToolTip": "Views\\Empleados\\Index.cshtml",
               "ViewState": "AQIAAEMAAAAAAAAAAAAAAFsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T05:17:12.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T05:17:12.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ComprasController.cs",
               "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Controllers\\ComprasController.cs",
               "RelativeDocumentMoniker": "Controllers\\ComprasController.cs",
               "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Controllers\\ComprasController.cs",
               "RelativeToolTip": "Controllers\\ComprasController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAIAwwCcAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T04:34:12.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Views\\Compras\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Compras\\Index.cshtml",
               "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\T3_RevillaFernandezHectorRolando\\Views\\Compras\\Index.cshtml",
               "RelativeToolTip": "Views\\Compras\\Index.cshtml",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAcwH8AAAAuAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-11T04:23:42.522Z",
               "EditorCaption": ""
